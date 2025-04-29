@@ -54,10 +54,9 @@ Resource                    | Difficulty     | Relevance
 
 </details>
 
-### Probability
-
 <details>
-  <summary>:atom: </summary>
+    <summary>### **Probability :atom:**</summary>
+  
   
 <!--START_SECTION:activity-->  
 
