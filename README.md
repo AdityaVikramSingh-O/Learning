@@ -35,7 +35,7 @@ The Mathematical Foundation part is for all Artificial Intelligence branches suc
 
 
 <details>
-  <summary>### Linear Algebra :infinity:</summary>
+  <summary><span style="font-size: 1.5em; font-weight: bold;">Linear Algebra :infinity:</span></summary>
   
 <!--START_SECTION:activity-->  
 
