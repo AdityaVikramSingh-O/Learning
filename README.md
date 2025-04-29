@@ -35,7 +35,7 @@ The Mathematical Foundation part is for all Artificial Intelligence branches suc
 
 
 <details>
-  <summary><span style="font-size: 1.5em; font-weight: bold;">Linear Algebra :infinity:</span></summary>
+  <summary><span style="font-size: 1.5em;">:infinity: <b>Linear Algebra </b></span></summary>
   
 <!--START_SECTION:activity-->  
 
@@ -55,7 +55,7 @@ Resource                    | Difficulty     | Relevance
 </details>
 
 <details>
-    <summary><b>Probability :atom:</b></summary>
+    <summary><b>:atom: Probability </b></summary>
   
   
 <!--START_SECTION:activity-->  
