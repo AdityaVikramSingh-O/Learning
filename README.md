@@ -80,7 +80,7 @@ Resource                    | Difficulty     | Relevance
 
 
 <details>
-  <summary>:triangular_ruler:### Calculus</summary>
+  <summary><b>:triangular_ruler:Calculus</b></summary>
   
 
 
@@ -100,10 +100,9 @@ Resource                    | Difficulty     | Relevance
 
 </details>
 
- ### Optimization Theory
  
 <details>
-  <summary> 📉 </summary>
+  <summary> 📉 <b>Optimization Theory</b></summary>
   
 
 <!--START_SECTION:activity--> 
